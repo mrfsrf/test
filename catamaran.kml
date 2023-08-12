@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Catamaran / Wakeboard</name>
+    <name>Catamaran / Wakeboard / Tubes</name>
     <Style id="poly-0F9D58-1200-77-normal">
       <LineStyle>
         <color>ff589d0f</color>
@@ -35,7 +35,7 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name>Catamaran / Wakeboard</name>
+      <name>Catamaran / Wakeboard / Tubes</name>
       <description>Catamaran / Wakeboard</description>
       <styleUrl>#poly-0F9D58-1200-77</styleUrl>
       <Polygon>
